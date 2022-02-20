@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <FirstName>Jimmy</FirstName>
+    <LastName>Smith</LastName>
+    <Address>102 Long Lane</Address>
+    <PhoneNumber>29384857</PhoneNumber>
+  </Table1>
+  <Table1>
+    <FirstName>Clive</FirstName>
+    <LastName>Owen</LastName>
+    <Address>65 Ambling Way</Address>
+    <PhoneNumber>31214788</PhoneNumber>
+  </Table1>
+  <Table1>
+    <FirstName>James</FirstName>
+    <LastName>Brown</LastName>
+    <Address>82 Stewart St</Address>
+    <PhoneNumber>32114566</PhoneNumber>
+  </Table1>
+  <Table1>
+    <FirstName>Graham</FirstName>
+    <LastName>Howe</LastName>
+    <Address>12 Howard St</Address>
+    <PhoneNumber>8766556</PhoneNumber>
+  </Table1>
+  <Table1>
+    <FirstName>John</FirstName>
+    <LastName>Howe</LastName>
+    <Address>78 Short Lane</Address>
+    <PhoneNumber>29384857</PhoneNumber>
+  </Table1>
+  <Table1>
+    <FirstName>Clive</FirstName>
+    <LastName>Smith</LastName>
+    <Address>49 Sutherland St</Address>
+    <PhoneNumber>31214788</PhoneNumber>
+  </Table1>
+  <Table1>
+    <FirstName>James</FirstName>
+    <LastName>Owen</LastName>
+    <Address>8 Crimson Rd</Address>
+    <PhoneNumber>32114566</PhoneNumber>
+  </Table1>
+  <Table1>
+    <FirstName>Graham</FirstName>
+    <LastName>Brown</LastName>
+    <Address>94 Roland St</Address>
+    <PhoneNumber>8766556</PhoneNumber>
+  </Table1>
+</NewDataSet>

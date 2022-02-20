@@ -1,0 +1,7 @@
+C:\Users\TashirVallabh\source\repos\csvConversion\csvConversion\bin\Debug\csvConversion.exe.config
+C:\Users\TashirVallabh\source\repos\csvConversion\csvConversion\bin\Debug\csvConversion.exe
+C:\Users\TashirVallabh\source\repos\csvConversion\csvConversion\bin\Debug\csvConversion.pdb
+C:\Users\TashirVallabh\source\repos\csvConversion\csvConversion\obj\Debug\csvConversion.csprojAssemblyReference.cache
+C:\Users\TashirVallabh\source\repos\csvConversion\csvConversion\obj\Debug\csvConversion.csproj.CoreCompileInputs.cache
+C:\Users\TashirVallabh\source\repos\csvConversion\csvConversion\obj\Debug\csvConversion.exe
+C:\Users\TashirVallabh\source\repos\csvConversion\csvConversion\obj\Debug\csvConversion.pdb

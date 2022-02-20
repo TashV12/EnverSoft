@@ -1,0 +1,26 @@
+﻿@model EnverSoft.ViewModel.CompanyInfoViewModel
+@{
+    ViewBag.Title = "New";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>New Company</h2>
+
+@using (Html.BeginForm("Create", "CompanyInfo"))
+            {
+<div class="form-group">
+    @Html.LabelFor(m => m.companyInfo.Name)
+    @Html.TextBoxFor(m => m.companyInfo.Name, new { @class ="form-control"})
+    @Html.ValidationMessageFor(m => m.companyInfo.Name, "", new { @style = "color:red" })
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.companyInfo.PhoneNumber)
+    <label>Phone Number</label>
+    @Html.TextBoxFor(m => m.companyInfo.PhoneNumber, new { @class = "form-control" })
+    @Html.ValidationMessageFor(m => m.companyInfo.PhoneNumber, "", new { @style = "color:red" })
+</div>
+@Html.HiddenFor(m => m.companyInfo.Id)
+@Html.AntiForgeryToken();
+<button type="submit" class="btn btn-primary">Save</button>
+}
+

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnverSoft", "EnverSoft\EnverSoft.csproj", "{B85BFD03-BDF5-43F2-991F-25732EF520B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnverSoft.Tests", "EnverSoft.Tests\EnverSoft.Tests.csproj", "{F35C38F5-ADBF-4666-9D11-22DF9CB68FAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B85BFD03-BDF5-43F2-991F-25732EF520B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85BFD03-BDF5-43F2-991F-25732EF520B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B85BFD03-BDF5-43F2-991F-25732EF520B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85BFD03-BDF5-43F2-991F-25732EF520B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35C38F5-ADBF-4666-9D11-22DF9CB68FAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35C38F5-ADBF-4666-9D11-22DF9CB68FAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35C38F5-ADBF-4666-9D11-22DF9CB68FAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35C38F5-ADBF-4666-9D11-22DF9CB68FAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBD4EBD5-9E68-4B7D-9FAE-10783F8A4454}
+	EndGlobalSection
+EndGlobal
